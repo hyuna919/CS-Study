@@ -9,15 +9,15 @@
 
 - 비교정렬
   - [선택정렬](https://github.com/hyuna919/CS-Study/blob/main/Algorithm/Sorting/%EC%84%A0%ED%83%9D%EC%A0%95%EB%A0%AC.md)
-  - 버블정렬
-  - 삽입정렬
-  - 힙정렬
-  - 병합정렬
+  - [버블정렬]
+  - [삽입정렬](https://github.com/hyuna919/CS-Study/blob/main/Algorithm/Sorting/%EC%82%BD%EC%9E%85%EC%A0%95%EB%A0%AC.md)
+  - [힙정렬](https://github.com/hyuna919/CS-Study/blob/main/Algorithm/Sorting/%ED%9E%99%EC%A0%95%EB%A0%AC.md)
+  - [병합정렬]
 
 - 비-비교정렬
   - 버킷정렬
-  - 계수정렬
-  - 기수정렬
+  - [계수정렬](https://github.com/hyuna919/CS-Study/blob/main/Algorithm/Sorting/%EA%B3%84%EC%88%98%EC%A0%95%EB%A0%AC.md)
+  - [기수정렬](https://github.com/hyuna919/CS-Study/blob/main/Algorithm/Sorting/%EA%B8%B0%EC%88%98%EC%A0%95%EB%A0%AC.md)
 
 
 ## 제자리 정렬
@@ -38,11 +38,11 @@
 
 ## 안정성
 - 안정정렬
-  - 삽입정렬
+  - [삽입정렬](https://github.com/hyuna919/CS-Study/blob/main/Algorithm/Sorting/%EC%82%BD%EC%9E%85%EC%A0%95%EB%A0%AC.md)
   - 버블정렬
   - 병합정렬
 
 - 불안정정렬
-  - 선택정렬
-  - 퀵정렬
-  - 힙정렬
+  - [선택정렬](https://github.com/hyuna919/CS-Study/blob/main/Algorithm/Sorting/%EC%84%A0%ED%83%9D%EC%A0%95%EB%A0%AC.md)
+  - [퀵정렬](https://github.com/hyuna919/CS-Study/blob/main/Algorithm/Sorting/%ED%80%B5%EC%A0%95%EB%A0%AC.md)
+  - [힙정렬](https://github.com/hyuna919/CS-Study/blob/main/Algorithm/Sorting/%ED%9E%99%EC%A0%95%EB%A0%AC.md)
