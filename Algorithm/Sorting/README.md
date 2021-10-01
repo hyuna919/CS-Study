@@ -8,7 +8,7 @@
   - 결정 트리의 형태로 기술 가능함
 
 - 비교정렬
-  - 선택정렬
+  - [선택정렬](https://github.com/hyuna919/CS-Study/blob/main/Algorithm/Sorting/%EC%84%A0%ED%83%9D%EC%A0%95%EB%A0%AC.md)
   - 버블정렬
   - 삽입정렬
   - 힙정렬
