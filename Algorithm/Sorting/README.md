@@ -24,7 +24,7 @@
 
 원소의 수에 비해 충분히 무시할 만한 저장 공간만을 더 사용하는 알고리즘
 
-- 삽입 정렬
+- [삽입정렬](https://github.com/hyuna919/CS-Study/blob/main/Algorithm/Sorting/%EC%82%BD%EC%9E%85%EC%A0%95%EB%A0%AC.md)
 - 퀵 정렬(스택 사용떄문에 애매)
 
 
