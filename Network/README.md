@@ -4,6 +4,7 @@
 - [handshake](https://github.com/hyuna919/CS-Study/blob/main/Network/TCP_hacdshake.md)
 - [흐름제어/혼잡제어]
 - [UDP](https://github.com/hyuna919/CS-Study/blob/main/Network/UDP.md)
+- [대칭키와 공용키](https://github.com/hyuna919/CS-Study/blob/main/Network/%EB%8C%80%EC%B9%AD%ED%82%A4%EC%99%80%20%EA%B3%B5%EA%B0%9C%ED%82%A4)
 
 
 
