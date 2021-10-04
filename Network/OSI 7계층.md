@@ -14,7 +14,7 @@
 
 ## 암기
 
-![image-20210930202946791](C:\Users\hyuna\AppData\Roaming\Typora\typora-user-images\image-20210930202946791.png)
+![image](https://user-images.githubusercontent.com/49274191/135813073-2c9284e3-ed14-475c-adb8-c1b042e38e65.png)
 
 ## 1. 물리계층 (Physical)
 
