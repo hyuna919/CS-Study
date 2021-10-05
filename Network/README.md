@@ -6,8 +6,8 @@
 - [UDP](https://github.com/hyuna919/CS-Study/blob/main/Network/UDP.md)
 - [대칭키와 공개키](https://github.com/hyuna919/CS-Study/blob/main/Network/%EB%8C%80%EC%B9%AD%ED%82%A4%EC%99%80%20%EA%B3%B5%EA%B0%9C%ED%82%A4)
 
-
-
+\
+\
 --- (현아)아래는 네트워크를 OSI 계층에 따라 분류하면 어떨까 해서 일단 해보는데 나중에 안맞으면 삭제 할 수 있음---
 ## 1 : PHY
 ## 2 : Data Link
