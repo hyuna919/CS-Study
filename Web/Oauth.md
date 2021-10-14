@@ -19,6 +19,9 @@
 
 
 ## OAuth 원리
+아이디와 패스워드를 이용해서 로그인을 통해 인증을 하는 것은 User와 Service Provider가 직접 한다. 그리고 인증에 성공하면 (access token)토큰을 발급받아서 
+이를 인증수단으로 사용하여 Consumer를 통해 서비스를 사용한다.
+
 ![image](https://user-images.githubusercontent.com/66295630/137322606-5a37a88c-8ecc-446f-a399-16d63c28a600.png)
 
 
