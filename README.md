@@ -1,5 +1,8 @@
 SSAFY 6기 부울경 4반 스터디
 
+![z](https://user-images.githubusercontent.com/66295630/139259658-fc816ead-a48d-4543-b4a0-8cbd5ec51f54.PNG)
+
+
 ## 🚩: Why
 - 다들 원하는 회사 들어가요~!
 
