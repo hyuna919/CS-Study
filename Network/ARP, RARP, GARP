@@ -1,0 +1,19 @@
+
+TCP/IP) Internet
+MAC Address: Media Access Controll = 물리주소
+
+
+1. ARP
+- IP 주소를 이용해 상대방의 MAC 주소를 알아오는 프로토콜이다.
+- ARP 요청: 특정 IP주소에 대해 MAC주소를 요구, MAC 주소를 알지 못하기 때문에 브로드 캐스트로 전송한다.
+- ARP 응답: 요청한 MAC 주소 정보를 유니캐스트로 전송한다.
+
+2. 2. RARP (Reverse Address Resolution Protocol)
+- MAC 주소에 해당하는 IP 주소를 알아오는 프로토콜이다.
+- RARP 요청: MAC정보를 담고있는 RARP 정보를 브로드 캐스트로 전송한다.
+- RARP 응답: 요청자의 IP 주소를 담은 RARP 응답을 유니캐스트로 전송한다.
+
+3. GARP (Gratuious ARP)
+- 송신 IP와 수신 IP가 동일한 ARP 요청이다.
+- 자신의 존재를 알리는 목적으로 사용한다.
+- IP 충돌 감지, ARP 테이블 갱신 용도로 사용한다.
