@@ -13,6 +13,7 @@
   - [삽입정렬](https://github.com/hyuna919/CS-Study/blob/main/Algorithm/Sorting/%EC%82%BD%EC%9E%85%EC%A0%95%EB%A0%AC.md)
   - [힙정렬](https://github.com/hyuna919/CS-Study/blob/main/Algorithm/Sorting/%ED%9E%99%EC%A0%95%EB%A0%AC.md)
   - [병합정렬]
+  - [퀵정렬]
 
 - 비-비교정렬
   - 버킷정렬
